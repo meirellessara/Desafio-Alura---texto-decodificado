@@ -1,11 +1,11 @@
-Desafio Alura - Decodificador de Texto
-One - Oracle Next Education
+# Desafio Alura - Decodificador de Texto
+## One - Oracle Next Education
 
-Sobre o projeto:
+**Sobre o projeto:**
 
 Este projeto é um decodificador de texto simples, desenvolvido como parte do desafio da Alura. A aplicação permite criptografar e descriptografar mensagens de texto, aceitando apenas letras minúsculas e sem acentos.
 
-Funcionalidades:
+**Funcionalidades:**
 
 Criptografia: Transforma o texto inserido em uma mensagem codificada.
 Descriptografia: Decodifica a mensagem criptografada, revelando o texto original.
@@ -26,16 +26,16 @@ Revisar aulas: Voltei às aulas da Alura para reforçar o aprendizado.
 Pesquisar na internet: Consultei documentações e tutoriais online para encontrar soluções e exemplos.
 Utilizar inteligência artificial: Recorri a ferramentas de inteligência artificial para obter exemplos e sugestões de código.
 
-Como usar:
+**Como usar:**
 
-Clone este repositório: git clone https://github.com/meirellessara/Desafio-Alura---texto-decodificado.git
+Clone este repositório: [git clone] (https://github.com/meirellessara/Desafio-Alura---texto-decodificado.git).
 Abra o arquivo index.html em seu navegador.
 Insira o texto que deseja criptografar ou descriptografar no campo correspondente.
 Clique no botão "Criptografar" ou "Descriptografar".
 O resultado aparecerá no campo abaixo.
 Utilize os botões "Copiar" e "Limpar" conforme necessário.
 
-Limitações:
+**Limitações:**
 
 Atualmente, o decodificador suporta apenas letras minúsculas sem acento. Caracteres especiais, letras maiúsculas e números não são permitidos.
 A lógica de criptografia é simples e não se destina a fins de segurança.
@@ -47,3 +47,5 @@ Melhorar a interface do usuário.
 Desenvolvido por: Sara Garcia Meirelles
 
 Contato: meirellessara@gmail.com
+
+
