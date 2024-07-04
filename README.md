@@ -28,7 +28,7 @@ Utilizar inteligência artificial: Recorri a ferramentas de inteligência artifi
 
 Como usar:
 
-Clone este repositório: git clone https://github.com/SEU-USUARIO/Desafio-Alura---texto-decodificado.git
+Clone este repositório: git clone https://github.com/meirellessara/Desafio-Alura---texto-decodificado.git
 Abra o arquivo index.html em seu navegador.
 Insira o texto que deseja criptografar ou descriptografar no campo correspondente.
 Clique no botão "Criptografar" ou "Descriptografar".
