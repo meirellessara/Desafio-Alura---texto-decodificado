@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="./asset/style.css">
+    <script src="./script.js" defer></script>
+</head>
+<body>
+    <header>
+        <img class="logo" src="./asset/Vector.png" alt="Logo">
+    </header>
+    <main class="geral">
+        <section class="geral__conteudo">
+            <textarea class="geral__conteudo__label" id="textoCripto" placeholder="Digite seu texto aqui."></textarea>
+            <div class="esclamacao">
+                <img class="geral__conteudo__esclamacao" src="./asset/bi_exclamation-circle-fill.png" alt="Exclamação">
+                <p class="geral__conteudo__aviso">Apenas letras minúsculas e sem acento</p>
+            </div>
+            <div class="geral__botao">
+                <button id="btnCripto">Criptografar</button>
+                <button id="btnDescripto">Descriptografar</button>
+                <button id="btnLimpar">Limpar</button>
+            </div>
+        </section>
+        <section class="retangulo">
+            <img class="retangulo__imagem" id="imgNaoEncontrado" src="./asset/naoencontrado.png" alt="Não encontrado">
+            <textarea class="retangulo__resultado" id="resultadoCripto" style="display: none;"></textarea>
+            <div class="retangulo__texto" id="text__codificado">
+                <h1 class="retangulo__texto__h1">Nenhuma mensagem encontrada</h1>
+                <p class="retangulo__texto__p">Digite um texto que você deseja criptografar ou descriptografar.</p>
+            </div>
+            <div class="geral__botao">
+                <button id="btnCopiar" style="display: none">Copiar</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p class="footer">Sara Garcia Meirelles - 2024</p>
+    </footer>
+</body>
+</html>
